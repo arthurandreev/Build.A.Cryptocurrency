@@ -1,0 +1,11 @@
+/Users/arthurandreev/Projects/CryptoDosh/CryptoDosh/bin/Debug/netcoreapp2.0/CryptoDosh.deps.json
+/Users/arthurandreev/Projects/CryptoDosh/CryptoDosh/bin/Debug/netcoreapp2.0/CryptoDosh.runtimeconfig.json
+/Users/arthurandreev/Projects/CryptoDosh/CryptoDosh/bin/Debug/netcoreapp2.0/CryptoDosh.runtimeconfig.dev.json
+/Users/arthurandreev/Projects/CryptoDosh/CryptoDosh/bin/Debug/netcoreapp2.0/CryptoDosh.dll
+/Users/arthurandreev/Projects/CryptoDosh/CryptoDosh/bin/Debug/netcoreapp2.0/CryptoDosh.pdb
+/Users/arthurandreev/Projects/CryptoDosh/CryptoDosh/obj/Debug/netcoreapp2.0/CryptoDosh.csprojResolveAssemblyReference.cache
+/Users/arthurandreev/Projects/CryptoDosh/CryptoDosh/obj/Debug/netcoreapp2.0/CryptoDosh.csproj.CoreCompileInputs.cache
+/Users/arthurandreev/Projects/CryptoDosh/CryptoDosh/obj/Debug/netcoreapp2.0/CryptoDosh.AssemblyInfoInputs.cache
+/Users/arthurandreev/Projects/CryptoDosh/CryptoDosh/obj/Debug/netcoreapp2.0/CryptoDosh.AssemblyInfo.cs
+/Users/arthurandreev/Projects/CryptoDosh/CryptoDosh/obj/Debug/netcoreapp2.0/CryptoDosh.dll
+/Users/arthurandreev/Projects/CryptoDosh/CryptoDosh/obj/Debug/netcoreapp2.0/CryptoDosh.pdb

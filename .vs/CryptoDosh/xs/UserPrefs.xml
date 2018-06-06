@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{770CBB85-F482-4946-9C3F-3F049E4510E9}|Default">
+  <MonoDevelop.Ide.ItemProperties.CryptoDosh PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CryptoDosh/Program.cs">
+    <Files>
+      <File FileName="CryptoDosh/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
